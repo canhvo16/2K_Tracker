@@ -1,16 +1,16 @@
 {
   "development": {
-    "database": "sequelize_development",
+    "database": "2KTracker_development",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
-    "database": "sequelize_test",
+    "database": "2KTracker_test",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
-    "database": "sequelize_production",
+    "database": "2KTracker_production",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
